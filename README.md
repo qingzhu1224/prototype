@@ -134,7 +134,7 @@ console.log(will.MinNumber);
 
 July对象的原型是”Object.prototype”也就是说对象的构建方式会影响原型链的形式。
 
-!(http://s1.51cto.com/wyfs02/M01/75/6F/wKioL1Y5Z_TQmz04AADKZF3NiH4003.jpg '{}对象原型链结构图')
+![](http://s1.51cto.com/wyfs02/M01/75/6F/wKioL1Y5Z_TQmz04AADKZF3NiH4003.jpg '{}对象原型链结构图')
 
 
 ##**综图所述**##
