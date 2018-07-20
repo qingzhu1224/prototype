@@ -160,7 +160,13 @@ July对象的原型是”Object.prototype”也就是说对象的构建方式会
 
 [张鑫旭](http://www.zhangxinxu.com/wordpress/)
 
-
+>1.练习    
+    1.`Object.proptotype._proto_ === null (true)`   
+    2.首先Object和Function都是构造函数，而所有的构造函数的都是Function的实例对象. 因此Object是Function的实例对象      
+    3.Function.prototype是Object的实例对象    
+    4.`Object._proto_ === Function.prototype`   `Function.prototype._proto_ ==== Object.prototype`     
+[参考1](http://wiki.jikexueyuan.com/project/brief-talk-js/function-and-object.html)
+[参考2](https://segmentfault.com/q/1010000002736664)
 
 
 
